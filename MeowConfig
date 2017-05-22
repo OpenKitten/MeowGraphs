@@ -1,0 +1,8 @@
+# You can specify plugins here in this format: ("Foo" "Bar")
+plugins=()
+
+# The sources directory that Sourcery scans. Must contain your models
+sources="Tests/MeowGraphsTests"
+
+# The Sourcery output file, to which the generated code is written
+output="Tests/MeowGraphsTests/Meow.swift"
